@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DentalCareFrontend.App" Collapsed="true">
+    <Position X="6.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DentalCareFrontend.CreditCardRule" Collapsed="true">
+    <Position X="8.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEACAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CreditCardRule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DentalCareFrontend.Custom" Collapsed="true">
+    <Position X="10" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Custom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DentalCareFrontend.DaysConverter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DaysConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DentalCareFrontend.FileHandlerService" Collapsed="true">
+    <Position X="8.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAQAQACAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileHandlerService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DentalCareFrontend.MainWindow" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="10" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAgAEABIAAYAAAAEYSAgIAEAAgAJAEAAABBAAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DentalCareFrontend.NumberRangeRule" Collapsed="true">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAEBCQABAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NumberRangeRule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DentalCareFrontend.TextLengthRule" Collapsed="true">
+    <Position X="8.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEACAABAAAAAQAAAAAAAAABAAAAAQAAAAAAA=</HashCode>
+      <FileName>TextLengthRule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DentalCareBackend.BracesPatient" Collapsed="true">
+    <Position X="11.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="DentalCareBackend.ExtractionPatient" Collapsed="true">
+    <Position X="20.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="DentalCareBackend.FillingCleaningPatient" Collapsed="true">
+    <Position X="25" Y="4.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="DentalCareBackend.PatientType">
+    <Position X="29.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="DentalCareBackend.Patient" Collapsed="true">
+    <Position X="17.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DentalCareBackend.PatientList" Collapsed="true">
+    <Position X="27" Y="3.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="DentalCareBackend.Program" Collapsed="true">
+    <Position X="31.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="DentalCareBackend.RootCanalPatient" Collapsed="true">
+    <Position X="22.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="DentalCareBackend.Slot" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="27" Y="4.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DentalCareBackend.SlotList" Collapsed="true">
+    <Position X="29.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Interface Name="DentalCareBackend.IPatient" Collapsed="true">
+    <Position X="27.25" Y="5.75" Width="1.75" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="DentalCareBackend.ISlot" Collapsed="true">
+    <Position X="29.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
